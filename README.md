@@ -95,3 +95,53 @@ _`<PageViewVariant><ThingInsideThePage><ElementSuffix>`_:
 
 The site that these translations are to be rendered on can be seen here:
 https://pricing.sto-dev-viewspot.smithmicro.io/ (ask someone for login credentials) 
+
+
+Q & A
+=====
+
+*(Below follows a list of questions and clarifications requested during processing by
+the translation service.)*
+
+---
+
+**Question:** What does "pricing" mean? Is it the *prices of things*, or
+the *action of managing prices*?
+
+**Answer:** Managing price information cards based on phone model, for the purpose of
+a mobile phone application to ask the server about it and display it on the screen.
+
+---
+
+**Question:** What is a "store"?
+
+**Answer:** We use the term *Store* to refer to a mobile network operator retail outlet, where
+they sell phones/gadgets and their subscription plans.
+
+---
+
+**Question:** What is a "card"?
+
+**Answer:** We use the term *Price Card*— or simply *Card* —to refer to a set of prices,
+"promotions", texts and attributes that are to be used to dynamically render price information on
+the screen of a client device.  The price card also includes rank, requirements and validity data
+that determines whether it will be the one returned by the server when client _X_ requests
+"the best card for its model and location".
+
+---
+
+**Question:** What is a "promotion"?
+
+**Answer:** It's a sort of ad or marketing thingy inside the client side presentation of
+the price card.  *"Buy it today, the offer expires tomorrow!"*,
+*"Trade in your old phone and get money for free on purchase."* et cetera.  These promotions also
+have their own variations of fineprint texts, classification "tags" and other things. 
+
+---
+
+**Question:** What is "fineprint"?
+
+**Answer:** The tiny legalese texts that are always there when you want to buy something as
+a consumer.  E.g. *"24 mo contract period, cancellation fee $50 per month."*
+
+---
