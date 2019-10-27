@@ -47,7 +47,7 @@
   "priceMgmtAddOrEditPriceCardInvalidPromotionsErrorMessage": "Недійсна акція",
   "priceMgmtAddOrEditPriceCardAddPromotionButtonText": "ДОДАТИ АКЦІЮ",
   "priceMgmtAddOrEditPriceCardDeletePromotionButtonText": "ВИДАЛИТИ АКЦІЮ",
-  "priceMgmtAddOrEditPriceCardIsCardActiveCheckboxLabel": "Активанр",
+  "priceMgmtAddOrEditPriceCardIsCardActiveCheckboxLabel": "Активна",
   "priceMgmtAddOrEditPriceCardInTimeZoneInputHint": "В {{ timezone }} часовому поясі",
   "priceMgmtAddOrEditPriceCardCreateCardForNonExistingModelErrorMessage": "Bи спробували створити картку для моделі, яка не існує.",
   "priceMgmtAddOrEditPriceCardCreatedSnackbarMessage": "Картку {{ name }} створено.",
