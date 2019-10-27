@@ -2,8 +2,8 @@
   "landingPageHeaderText": "Välkommen till {{ title }}",
   "landingPageSelectFeatureMessage": "Välj komponent.",
 
-  "priceMgmtFeatureComponentName": "Priser",
-  "priceMgmtFeatureComponentHint": "Konfigurera priskort för klienter",
+  "priceMgmtFeatureComponentName": "Prissättning",
+  "priceMgmtFeatureComponentHint": "Konfigurera priskort för modeller",
 
   "storeInfoFeatureComponentName": "Butiker",
   "storeInfoFeatureComponentHint": "Konfigurera butiker",

@@ -1,6 +1,6 @@
 
-`./src/assets/i18n` Translation Structure and Definitions
-=========================================================
+`./src/assets/i18n` Structure and Definitions
+=============================================
 
 The translation keys are encoded as follows,
 _`<PageViewVariant><ThingInsideThePage><ElementSuffix>`_:
@@ -49,24 +49,49 @@ _`<PageViewVariant><ThingInsideThePage><ElementSuffix>`_:
   - Lastly, the `generic` prefix collects various common texts rendered in every other view, not
     tied to any specific component
 
+
 - The suffix is typically _`<SomethingSomething>ButtonText`_, _`<SomethingSomething>DialogMessage`_
   et cetera, with the following meanings:
+
   - `HeaderText`, a HTML page header (`<h1>` tag or Angular Material `<mat-card-header>`)
+
   - `Message`, a full sentence ending in punctuation, typically a paragraph (`<p>`) HTML element
-    - `ErrorMessage`, variant of message displayed in a error dialog or form validator
-    - `DialogMessage`,
-    - `SnackbarMessage`,
+
+    - `DialogMessage`, displayed as the main text in
+      a [`mat-dialog`](https://material.angular.io/components/dialog/)
+
+    - `ErrorMessage`, variant of message displayed either in a error dialog OR in a input field
+      [validation error](https://material.angular.io/components/input/overview#changing-when-error-messages-are-shown)
+
+    - `SnackbarMessage`, full sentence presented in a Angular
+      [`snack-bar`](https://material.angular.io/components/snack-bar/)
+
   - `ComponentName`, a component name reusable in various context (does not end in punctuation)
-  - `ComponentHint`,
-  - `DialogTitle`,
+
+  - `ComponentHint`, a hint on what is the purpose of a component (does not end in punctuation)
+
+  - `DialogTitle`, title of a `mat-dialog` pop-up
+
   - `ButtonText`, the text of a action button
-  - `ColumnLabel`,
-  - `Placeholder`,
-  - `InputHint`,
-  - `CheckboxLabel`,
-  - `StepperLabel`,
-  - `Label`,
-  - `SelectOption`,
+
+  - `Placeholder`, words for a input field 
+    [placeholder](https://material.angular.io/components/input/overview#placeholder)
+
+  - `InputHint`, the hint shown under a input field,
+    example: [input with hints](https://material.angular.io/components/input/examples)
+
+  - `CheckboxLabel`, label on a [`checkbox`](https://material.angular.io/components/checkbox/)
+
+  - `StepperLabel`, label for a "step" in a Angular Material
+    [`stepper`](https://material.angular.io/components/stepper/) navigation layout
+
+  - `ColumnLabel`, column name in a [`mat-table`](https://material.angular.io/components/table/)
+
+  - `Label`, when it's no other type of label, some short text snippet somewhere in the UI
+
+  - `SelectOption`, value displayed as an option in
+    a [`mat-select`](https://material.angular.io/components/select/) element
+
 
 The site that these translations are to be rendered on can be seen here:
 https://pricing.sto-dev-viewspot.smithmicro.io/ (ask someone for login credentials) 
