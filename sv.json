@@ -20,8 +20,8 @@
 
   "priceMgmtCardsListHowToUseMessage": "Priskorten är listande i fallande ordning baserat på dess prioritet. Prioriteten ändras genom att kortet dras upp och ner i listan.",
   "priceMgmtCardsListCreateCardButtonText": "SKAPA PRISKORT",
-  "priceMgmtCardsListStartDateColumnLabel": "Startdatum",
-  "priceMgmtCardsListStopDateColumnLabel": "Stopdatum",
+  "priceMgmtCardsListStartDateColumnName": "Startdatum",
+  "priceMgmtCardsListStopDateColumnName": "Stopdatum",
   "priceMgmtCardsListConfirmDeleteCardDialogMessage": "Vill du verkligen ta bort priskortet?",
 
   "priceMgmtEditPriceCardHeaderText": "Ändra kort",
@@ -74,11 +74,11 @@
   "usersListCreateUserHeaderText": "Skapa användare",
   "usersListCreateUserButtonText": "SKAPA ANVÄNDARE",
 
-  "usersListActiveColumnLabel": "Aktiv",
-  "usersListEmailColumnLabel": "Mejladress",
-  "usersListIsSuperAdminColumnLabel": "Är superadmin",
-  "usersListPasswordChangeRequiredColumnLabel": "Lösenordsbyte krävs",
-  "usersListActionsColumnLabel": "Operationer",
+  "usersListActiveColumnName": "Aktiv",
+  "usersListEmailColumnName": "Mejladress",
+  "usersListIsSuperAdminColumnName": "Är superadmin",
+  "usersListPasswordChangeRequiredColumnName": "Lösenordsbyte krävs",
+  "usersListActionsColumnName": "Operationer",
   "usersListActionsActivateButtonText": "AKTIVERA",
   "usersListActionsDeactivateButtonText": "DEAKTIVERA",
   "usersListActionsResetUserPasswordButtonText": "ÅTERSTÄLL LÖSENORD",

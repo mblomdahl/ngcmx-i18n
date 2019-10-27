@@ -85,7 +85,7 @@ _`<PageViewVariant><ThingInsideThePage><ElementSuffix>`_:
   - `StepperLabel`, label for a "step" in a Angular Material
     [`stepper`](https://material.angular.io/components/stepper/) navigation layout
 
-  - `ColumnLabel`, column name in a [`mat-table`](https://material.angular.io/components/table/)
+  - `ColumnName`, column name in a [`mat-table`](https://material.angular.io/components/table/)
 
   - `Label`, when it's no other type of label, some short text snippet somewhere in the UI
 

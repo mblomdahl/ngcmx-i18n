@@ -12,7 +12,7 @@
   "contentMgmtComponentHint": "Налаштувати контент",
 
   "pageHeaderActionMenuInstanceSettingsButtonText": "Налаштування",
-    "pageHeaderActionMenuManageUsersButtonText": "Керування користувачами",
+  "pageHeaderActionMenuManageUsersButtonText": "Керування користувачами",
   "pageHeaderActionMenuLogoutButtonText": "Вийти",
 
   "priceMgmtFeatureWelcomePageHeaderText": "Ласкаво просимо в {{ priceMgmtFeatureComponentName }}",
@@ -20,8 +20,8 @@
 
   "priceMgmtCardsListHowToUseMessage": "Цінові картки перераховані в порядку зменшення та за пріоритетом. Порядок можна змінити, перетягнувниши картки.",
   "priceMgmtCardsListCreateCardButtonText": "СТВОРИТИ ЦІНОВУ КАРТКИ",
-  "priceMgmtCardsListStartDateColumnLabel": "Дата початку",
-  "priceMgmtCardsListStopDateColumnLabel": "Дата зупинки",
+  "priceMgmtCardsListStartDateColumnName": "Дата початку",
+  "priceMgmtCardsListStopDateColumnName": "Дата зупинки",
   "priceMgmtCardsListConfirmDeleteCardDialogMessage": "Ви дійсно хочете видалити картку?",
 
   "priceMgmtEditPriceCardHeaderText": "Редагувати картку",
@@ -74,11 +74,11 @@
   "usersListCreateUserHeaderText": "Створити користувача",
   "usersListCreateUserButtonText": "СТВОРИТИ КОРИСТУВАЧА",
 
-  "usersListActiveColumnLabel": "Активний",
-  "usersListEmailColumnLabel": "Email",
-  "usersListIsSuperAdminColumnLabel": "Є SuperAdmin",
-  "usersListPasswordChangeRequiredColumnLabel": "Обов’язкова зміна пароля",
-  "usersListActionsColumnLabel": "Дії",
+  "usersListActiveColumnName": "Активний",
+  "usersListEmailColumnName": "Email",
+  "usersListIsSuperAdminColumnName": "Є SuperAdmin",
+  "usersListPasswordChangeRequiredColumnName": "Обов’язкова зміна пароля",
+  "usersListActionsColumnName": "Дії",
   "usersListActionsActivateButtonText": "АКТИВУВАТИ",
   "usersListActionsDeactivateButtonText": "ДЕАКТИВУВАТИ",
   "usersListActionsResetUserPasswordButtonText": "ЗМІНИТИ ПАРОЛЬ",

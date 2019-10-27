@@ -20,8 +20,8 @@
 
   "priceMgmtCardsListHowToUseMessage": "Price cards are listed in descending rank order and are evaluated for validity from top to bottom. The ranking order can be changed by dragging the cards.",
   "priceMgmtCardsListCreateCardButtonText": "CREATE PRICE CARD",
-  "priceMgmtCardsListStartDateColumnLabel": "Start Date",
-  "priceMgmtCardsListStopDateColumnLabel": "Stop Date",
+  "priceMgmtCardsListStartDateColumnName": "Start Date",
+  "priceMgmtCardsListStopDateColumnName": "Stop Date",
   "priceMgmtCardsListConfirmDeleteCardDialogMessage": "Do you really want to delete the card?",
 
   "priceMgmtEditPriceCardHeaderText": "Edit Card",
@@ -74,11 +74,11 @@
   "usersListCreateUserHeaderText": "Create User",
   "usersListCreateUserButtonText": "CREATE USER",
 
-  "usersListActiveColumnLabel": "Active",
-  "usersListEmailColumnLabel": "Email",
-  "usersListIsSuperAdminColumnLabel": "Is SuperAdmin",
-  "usersListPasswordChangeRequiredColumnLabel": "Required Password Change",
-  "usersListActionsColumnLabel": "Actions",
+  "usersListActiveColumnName": "Active",
+  "usersListEmailColumnName": "Email",
+  "usersListIsSuperAdminColumnName": "Is SuperAdmin",
+  "usersListPasswordChangeRequiredColumnName": "Required Password Change",
+  "usersListActionsColumnName": "Actions",
   "usersListActionsActivateButtonText": "ACTIVATE",
   "usersListActionsDeactivateButtonText": "DEACTIVATE",
   "usersListActionsResetUserPasswordButtonText": "RESET PASSWORD",
