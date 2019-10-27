@@ -69,14 +69,14 @@
   "priceMgmtModelsAddOrEditDeviceVendorPlaceholder": "Виробник",
 
   "usersListCreateUserEmailPlaceholder": "Адреса електронної пошти",
-  "usersListCreateUserSuperAdminCheckboxLabel": "Super Admin",
+  "usersListCreateUserSuperAdminCheckboxLabel": "Cупер Адмін",
   "usersListCreateUserCreateUserButtonText": "Створити",
   "usersListCreateUserHeaderText": "Створити користувача",
   "usersListCreateUserButtonText": "СТВОРИТИ КОРИСТУВАЧА",
 
   "usersListActiveColumnName": "Активний",
-  "usersListEmailColumnName": "Email",
-  "usersListIsSuperAdminColumnName": "Є SuperAdmin",
+  "usersListEmailColumnName": "Електронна пошта",
+  "usersListIsSuperAdminColumnName": "є Супер Адмін",
   "usersListPasswordChangeRequiredColumnName": "Обов’язкова зміна пароля",
   "usersListActionsColumnName": "Дії",
   "usersListActionsActivateButtonText": "АКТИВУВАТИ",
@@ -147,7 +147,7 @@
   "loginPageIncorrectCredentialsErrorMessage": "Неправильні дані для входу.",
   "loginPagePasswordChangeRequiredErrorMessage": "Зміна паролю є обов'язковою.",
 
-  "authSuperAdminPrivilegesRequiredForViewErrorMessage": "Для доступу потрібні super admin привілегії.",
+  "authSuperAdminPrivilegesRequiredForViewErrorMessage": "Для доступу потрібні супер адмін привілегії.",
   "authSessionHasTimedOutLoginAgainErrorMessage": "Ваш сеанс закінчився. Будь ласка, увійдіть ще раз.",
   "authInvalidUserErrorMessage": "Недійсний користувач.",
 
