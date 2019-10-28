@@ -11,6 +11,8 @@
   "contentMgmtComponentName": "Innehåll",
   "contentMgmtComponentHint": "Konfigurera innehåll",
 
+  "pageHeaderNavigationBurgerMenuAriaLabel": "Toggla navigationspanel",
+  "pageHeaderActionMenuAriaLabel": "Action-meny",
   "pageHeaderActionMenuInstanceSettingsButtonText": "Inställningar",
   "pageHeaderActionMenuManageUsersButtonText": "Hantera användare",
   "pageHeaderActionMenuLogoutButtonText": "Logga ut",
@@ -19,13 +21,16 @@
   "priceMgmtFeatureWelcomePageMessage": "Välj en modell för att inspektera, skapa eller ändra dess priskort.",
 
   "priceMgmtCardsListHowToUseMessage": "Priskorten är listande i fallande ordning baserat på dess prioritet. Prioriteten ändras genom att kortet dras upp och ner i listan.",
+  "priceMgmtCardsListReorganizeCardsAriaLabel": "Handtag för att dra priskort",
+  "priceMgmtCardsListCardStoreFiltersIconAriaLabel": "Ikon för butiksfilter",
+  "priceMgmtCardsListCardPricesIconAriaLabel": "Ikon för prisinformation",
   "priceMgmtCardsListCreateCardButtonText": "SKAPA PRISKORT",
   "priceMgmtCardsListStartDateColumnName": "Startdatum",
   "priceMgmtCardsListStopDateColumnName": "Stopdatum",
   "priceMgmtCardsListConfirmDeleteCardDialogMessage": "Vill du verkligen ta bort priskortet?",
 
-  "priceMgmtEditPriceCardHeaderText": "Ändra kort",
-  "priceMgmtAddPriceCardHeaderText": "Lägg till kort",
+  "priceMgmtAddOrEditEditPriceCardHeaderText": "Ändra kort",
+  "priceMgmtAddOrEditAddPriceCardHeaderText": "Lägg till kort",
   "priceMgmtAddOrEditPriceCardOverallFineprintPlaceholder": "Översiktlig finstilt text",
   "priceMgmtAddOrEditPriceCardLabelPlaceholder": "Namn",
   "priceMgmtAddOrEditPriceCardAnalyticsTagPlaceholder": "Analytics Tag",
@@ -62,8 +67,8 @@
   "priceMgmtModelsListConfirmDeleteModelDialogMessage": "Vill du verkligen ta bort {{ id }}?",
   "priceMgmtModelsListDeleteModelWithPriceCardErrorMessage": "Det finns priskort för den här modellen.",
 
-  "priceMgmtModelsAddDeviceHeaderText": "Lägg till modell",
-  "priceMgmtModelsEditDeviceModelHeaderText": "Ändra modell",
+  "priceMgmtModelsAddOrEditAddDeviceModelHeaderText": "Lägg till modell",
+  "priceMgmtModelsAddOrEditEditDeviceModelHeaderText": "Ändra modell",
   "priceMgmtModelsAddOrEditDeviceIdPlaceholder": "Modell-ID",
   "priceMgmtModelsAddOrEditDeviceNamePlaceholder": "Modell",
   "priceMgmtModelsAddOrEditDeviceVendorPlaceholder": "Tillverkare",
@@ -95,6 +100,7 @@
   "instanceSettingsPageResetAllStoreDataButtonText": "ÅTERSTÄLL DATA",
   "instanceSettingsPageConfirmResetAllStoreDataDialogMessage": "Är du på säker att du vill återställa all butikrelaterad data?",
   "instanceSettingsPageAllStoreDataResetCompletedDialogMessage": "All butiksrelaterad data har återställts",
+  "instanceSettingsPagePromotionTagsAriaLabel": "Promotion Tags",
   "instanceSettingsPageConfigurePromotionTagsPlaceholder": "Tillåtna promotion-taggar",
   "instanceSettingsPagePromotionTagContainingIllegalCharacterErrorMessage": "Den nya taggen innehåller otillåtna tecken",
   "instanceSettingsPagePromotionTagOnlyAlphaNumCharsInputHint": "Kan endast innehålla alfanumeriska tecken",
@@ -148,7 +154,7 @@
   "loginPagePasswordChangeRequiredErrorMessage": "Lösenordsändring krävs.",
 
   "authSuperAdminPrivilegesRequiredForViewErrorMessage": "Du måste vara Super Admin för att komma åt denna vyn.",
-  "authSessionHasTimedOutLoginAgainErrorMessage": "Sessionens giltighetstid har gått ut, vänligen logga in igen.",
+  "authSessionHasTimedOutLoginAgainErrorMessage": "Sessionens giltighetstid har gått ut. Vänligen logga in igen.",
   "authInvalidUserErrorMessage": "Ogiltig användare.",
 
   "genericConfirmActionDialogTitle": "Vill du fortsätta?",

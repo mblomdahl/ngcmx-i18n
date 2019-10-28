@@ -11,6 +11,8 @@
   "contentMgmtComponentName": "Content",
   "contentMgmtComponentHint": "Configure content",
 
+  "pageHeaderNavigationBurgerMenuAriaLabel": "Toggle sidenav",
+  "pageHeaderActionMenuAriaLabel": "Action menu",
   "pageHeaderActionMenuInstanceSettingsButtonText": "Settings",
   "pageHeaderActionMenuManageUsersButtonText": "Manage Users",
   "pageHeaderActionMenuLogoutButtonText": "Logout",
@@ -19,13 +21,16 @@
   "priceMgmtFeatureWelcomePageMessage": "Please select a device model to view, create, or edit its Price cards.",
 
   "priceMgmtCardsListHowToUseMessage": "Price cards are listed in descending rank order and are evaluated for validity from top to bottom. The ranking order can be changed by dragging the cards.",
+  "priceMgmtCardsListReorganizeCardsAriaLabel": "Card drag handle",
+  "priceMgmtCardsListCardStoreFiltersIconAriaLabel": "Store Filters icon",
+  "priceMgmtCardsListCardPricesIconAriaLabel": "Prices icon",
   "priceMgmtCardsListCreateCardButtonText": "CREATE PRICE CARD",
   "priceMgmtCardsListStartDateColumnName": "Start Date",
   "priceMgmtCardsListStopDateColumnName": "Stop Date",
   "priceMgmtCardsListConfirmDeleteCardDialogMessage": "Do you really want to delete the card?",
 
-  "priceMgmtEditPriceCardHeaderText": "Edit Card",
-  "priceMgmtAddPriceCardHeaderText": "Add Card",
+  "priceMgmtAddOrEditEditPriceCardHeaderText": "Edit Card",
+  "priceMgmtAddOrEditAddPriceCardHeaderText": "Add Card",
   "priceMgmtAddOrEditPriceCardOverallFineprintPlaceholder": "Overall Fine Print",
   "priceMgmtAddOrEditPriceCardLabelPlaceholder": "Label",
   "priceMgmtAddOrEditPriceCardAnalyticsTagPlaceholder": "Analytics Tag",
@@ -62,8 +67,8 @@
   "priceMgmtModelsListConfirmDeleteModelDialogMessage": "Do you really want to delete {{ id }}",
   "priceMgmtModelsListDeleteModelWithPriceCardErrorMessage": "There are cards available for this model.",
 
-  "priceMgmtModelsAddDeviceHeaderText": "Add Device Model",
-  "priceMgmtModelsEditDeviceModelHeaderText": "Edit Device Model",
+  "priceMgmtModelsAddOrEditAddDeviceModelHeaderText": "Add Device Model",
+  "priceMgmtModelsAddOrEditEditDeviceModelHeaderText": "Edit Device Model",
   "priceMgmtModelsAddOrEditDeviceIdPlaceholder": "Model ID",
   "priceMgmtModelsAddOrEditDeviceNamePlaceholder": "Model",
   "priceMgmtModelsAddOrEditDeviceVendorPlaceholder": "Vendor",
@@ -76,7 +81,7 @@
 
   "usersListActiveColumnName": "Active",
   "usersListEmailColumnName": "Email",
-  "usersListIsSuperAdminColumnName": "Is SuperAdmin",
+  "usersListIsSuperAdminColumnName": "Is Super Admin",
   "usersListPasswordChangeRequiredColumnName": "Required Password Change",
   "usersListActionsColumnName": "Actions",
   "usersListActionsActivateButtonText": "ACTIVATE",
@@ -95,6 +100,7 @@
   "instanceSettingsPageResetAllStoreDataButtonText": "RESET DATA",
   "instanceSettingsPageConfirmResetAllStoreDataDialogMessage": "Are you sure you want to reset all stores related data?",
   "instanceSettingsPageAllStoreDataResetCompletedDialogMessage": "All stores related data has been reset",
+  "instanceSettingsPagePromotionTagsAriaLabel": "Promotion Tags",
   "instanceSettingsPageConfigurePromotionTagsPlaceholder": "Allowed Promotion Tags",
   "instanceSettingsPagePromotionTagContainingIllegalCharacterErrorMessage": "New tag contains illegal characters",
   "instanceSettingsPagePromotionTagOnlyAlphaNumCharsInputHint": "Can only contain alphanumeric characters",
@@ -148,7 +154,7 @@
   "loginPagePasswordChangeRequiredErrorMessage": "Password change required.",
 
   "authSuperAdminPrivilegesRequiredForViewErrorMessage": "You need super admin privileges to access this view.",
-  "authSessionHasTimedOutLoginAgainErrorMessage": "Your session has timed out, please login again.",
+  "authSessionHasTimedOutLoginAgainErrorMessage": "Your session has timed out. Please login again.",
   "authInvalidUserErrorMessage": "Invalid User.",
 
   "genericConfirmActionDialogTitle": "Proceed?",

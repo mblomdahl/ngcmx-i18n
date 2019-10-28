@@ -87,6 +87,10 @@ _`<PageViewVariant><ThingInsideThePage><ElementSuffix>`_:
 
   - `ColumnName`, column name in a [`mat-table`](https://material.angular.io/components/table/)
 
+  - `AriaLabel`, descriptive label for icons and buttons that can be read by screen readers (see
+    [MDN docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute)
+    for more info)
+
   - `Label`, when it's no other type of label, some short text snippet somewhere in the UI
 
   - `SelectOption`, value displayed as an option in
