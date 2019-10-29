@@ -12,7 +12,7 @@
   "contentMgmtComponentHint": "Настройка контента",
 
   "pageHeaderNavigationBurgerMenuAriaLabel": "Toggle sidenav",
-  "pageHeaderActionMenuAriaLabel": "Action menu",
+  "pageHeaderActionMenuAriaLabel": "Меню действий",
   "pageHeaderActionMenuInstanceSettingsButtonText": "Настройки",
   "pageHeaderActionMenuManageUsersButtonText": "Управление пользователями",
   "pageHeaderActionMenuLogoutButtonText": "Выйти",
@@ -22,8 +22,8 @@
 
   "priceMgmtCardsListHowToUseMessage": "Ценовые карты перечислены в порядке убывания и по приоритету сверху вниз. Порядок можно изменить путем перетаскивания карт.",
   "priceMgmtCardsListReorganizeCardsAriaLabel": "Card drag handle",
-  "priceMgmtCardsListCardStoreFiltersIconAriaLabel": "Store Filters icon",
-  "priceMgmtCardsListCardPricesIconAriaLabel": "Prices icon",
+  "priceMgmtCardsListCardStoreFiltersIconAriaLabel": "Иконка магазинных фильтров",
+  "priceMgmtCardsListCardPricesIconAriaLabel": "Иконка цен",
   "priceMgmtCardsListCreateCardButtonText": "СОЗДАТЬ ЦЕНОВУЮ КАРТУ",
   "priceMgmtCardsListStartDateColumnName": "Дата начала",
   "priceMgmtCardsListStopDateColumnName": "Дата окончания",
@@ -100,7 +100,7 @@
   "instanceSettingsPageResetAllStoreDataButtonText": "СБРОС ДАННЫХ",
   "instanceSettingsPageConfirmResetAllStoreDataDialogMessage": "Вы уверены, что хотите сбросить все данные, связанные с магазинами?",
   "instanceSettingsPageAllStoreDataResetCompletedDialogMessage": "Все данные магазинов были сброшены",
-  "instanceSettingsPagePromotionTagsAriaLabel": "Promotion Tags",
+  "instanceSettingsPagePromotionTagsAriaLabel": "Акционные теги",
   "instanceSettingsPageConfigurePromotionTagsPlaceholder": "Разрешенные акционные теги",
   "instanceSettingsPagePromotionTagContainingIllegalCharacterErrorMessage": "Новый тег содержит запрещенные символы",
   "instanceSettingsPagePromotionTagOnlyAlphaNumCharsInputHint": "Может содержать только буквенно-цифровые символы",
